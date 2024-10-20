@@ -10,7 +10,7 @@
     "start": "node index.js"
   },
   "author": "Oliver Kroener",
-  "license": "GPL v2.0 or later",
+  "license": "MIT",
   "dependencies": {
     "sharp": "^0.33.5"
   }
