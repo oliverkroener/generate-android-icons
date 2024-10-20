@@ -1,0 +1,17 @@
+{
+  "name": "react-native-generate-icons",
+  "version": "1.0.0",
+  "description": "Generate icon for Android apps",
+  "main": "index.js",
+  "bin":{
+    "generate-android-icons": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Oliver Kroener",
+  "license": "GPL v2.0 or later",
+  "dependencies": {
+    "sharp": "^0.33.5"
+  }
+}
